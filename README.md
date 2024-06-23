@@ -1,2 +1,5 @@
 # SS-TTA
-This repository contains the minimal code implementation of the **SS-TTA: Test-Time Adaption for Self-Supervised Denoising Methods**, CVRPw23
+
+This repo is the minimal official implementation of:
+ 
+CVRPw 2023: **SS-TTA: Test-Time Adaption for Self-Supervised Denoising Methods** 
